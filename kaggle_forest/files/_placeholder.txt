@@ -1,0 +1,1 @@
+download training and testing sets at https://www.kaggle.com/c/forest-cover-type-prediction/
